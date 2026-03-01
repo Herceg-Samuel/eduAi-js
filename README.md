@@ -25,6 +25,12 @@ A school management system with AI functionality.
 # Student Schedule Mngt
 
 ```js
-manageSchedule(studentId, courseId, preferences = {})
+manageSchedule(studentId, courseId, (preferences = {}));
 ```
 
+# Screenshots
+
+![Sample Output 1](image.png)
+![Sample Output 2](image-1.png)
+![Sample Output 3](image-2.png)
+![System Analytics.](image-3.png)
