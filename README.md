@@ -30,7 +30,17 @@ manageSchedule(studentId, courseId, (preferences = {}));
 
 # Screenshots
 
+Sample Output 1
+
 ![Sample Output 1](image.png)
+
+Sample Output 2
+
 ![Sample Output 2](image-1.png)
+
+Sample Output 3
 ![Sample Output 3](image-2.png)
+
+System Analytics.
+
 ![System Analytics.](image-3.png)
